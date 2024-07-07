@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohammm45
 - 👀 I’m interested in software developer
-- 🌱 I’m currently studying ENTC
+- 🌱 I’m currently studying Electronics and Telecommunication Engineering 
 
 <!---
 Sohammm45/Sohammm45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
