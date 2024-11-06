@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sohammm45
+- 👋 Hi, I’m @Soham
 - 👀 I’m interested in software developer
 - 🌱 I’m currently studying Electronics and Telecommunication Engineering 
 
