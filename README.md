@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soham
-- 👀 I’m interested in software developer
+- 👀 I’m interested in frontend projects
 - 🌱 I’m currently studying Electronics and Telecommunication Engineering 
 
 <!---
